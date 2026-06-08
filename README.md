@@ -93,12 +93,11 @@ Source: [Kaggle](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-suppl
 ```
 supply-chain-analysis/
 │
-├── 01_eda.ipynb                    # Data exploration and cleaning
-├── 02_sql_analysis.ipynb           # SQL queries (Basic → CTE → Window Functions)
-├── supply_chain_dashboard.pbix     # Power BI report (2 pages)
-├── dataco_cleaned.csv              # Cleaned dataset
-├── overview.png                    # Dashboard screenshot - Overview
-├── deepdive.png                    # Dashboard screenshot - Deep Dive
+├── 01_eda.ipynb                    # Data exploration, cleaning and visualization
+├── 02_sql_analysis.ipynb           # SQL queries (Basic → Subquery → CTE → Window Functions)
+├── DataCo.pbix                     # Power BI report (2 pages: Overview + Deep Dive)
+├── Overview.png                    # Dashboard screenshot - Overview
+├── Deepdive.png                    # Dashboard screenshot - Deep Dive
 └── README.md
 ```
 
