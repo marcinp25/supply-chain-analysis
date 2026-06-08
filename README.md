@@ -13,10 +13,10 @@ A global e-commerce company operates across 5 markets (Europe, LATAM, Pacific As
 ## Dashboard Preview
 
 ### Overview
-![Overview](overview.png)
+![Overview](Overview.png)
 
 ### Deep Dive Analysis
-![Deep Dive](deepdive.png)
+![Deep Dive](Deepdive.png)
 
 ---
 
