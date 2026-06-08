@@ -75,6 +75,8 @@ The data reveals a **systemic planning problem**, not a logistics or regional is
 
 **DataCo Smart Supply Chain for Big Data Analysis**  
 Source: [Kaggle](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
+> **Note:** Raw dataset is not included in this repository due to file size.  
+> Download `DataCoSupplyChainDataset.csv` from Kaggle and run `01_eda.ipynb` to generate the cleaned dataset.
 
 | Property | Value |
 |---|---|
