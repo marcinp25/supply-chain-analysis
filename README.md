@@ -95,6 +95,7 @@ supply-chain-analysis/
 │
 ├── 01_eda.ipynb                    # Data exploration, cleaning and visualization
 ├── 02_sql_analysis.ipynb           # SQL queries (Basic → Subquery → CTE → Window Functions)
+├── queries.sql                     # Clean SQL queries (no Python wrapper)
 ├── DataCo.pbix                     # Power BI report (2 pages: Overview + Deep Dive)
 ├── Overview.png                    # Dashboard screenshot - Overview
 ├── Deepdive.png                    # Dashboard screenshot - Deep Dive
