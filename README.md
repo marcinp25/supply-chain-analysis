@@ -6,7 +6,7 @@ End-to-end data analysis project combining **Python**, **SQL (DuckDB)** and **Po
 
 ## Business Problem
 
-A global e-commerce company operates across 5 markets (Europe, LATAM, Pacific Asia, USCA, Africa) with 4 shipping modes. Despite investing in premium shipping options, delivery performance remained a persistent operational challenge. This project investigates **why deliveries are late, which areas are most affected, and what it costs the business.**
+A global e-commerce company operates across 5 markets (Europe, LATAM, Pacific Asia, USCA, Africa) with 4 shipping modes. This project investigates **why deliveries are late, which areas are most affected, and what it costs the business.**
 
 ---
 
@@ -110,3 +110,8 @@ Data Analyst with 10+ years of supply chain operations experience.
 Combining domain expertise with data tools to solve real business problems.
 
 *Skills: Python · SQL · Power BI · Supply Chain Analytics*
+
+## License
+
+This project is for educational and portfolio purposes.  
+Dataset source: [DataCo Smart Supply Chain](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis) — used for non-commercial analysis only.
