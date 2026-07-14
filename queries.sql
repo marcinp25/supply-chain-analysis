@@ -1,5 +1,5 @@
 -- ============================================================
--- Supply Chain Performance Analysis
+-- Supply Chain Performance Analysis.
 -- SQL Queries: Basic → Subquery → CTE → Window Functions
 -- Database: DuckDB (compatible with PostgreSQL syntax)
 -- ============================================================
