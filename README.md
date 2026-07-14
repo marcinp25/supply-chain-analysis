@@ -42,7 +42,7 @@ The data reveals a **systemic planning problem**, not a logistics or regional is
 - Premium shipping modes promise tighter windows but lack the operational buffer to meet them
 - 3-year rolling average shows no improvement despite operational changes
 
-> **Business recommendation:** Re-evaluate promised delivery windows for First Class and Second Class shipping. Tighter SLAs require either additional logistics capacity or adjusted customer expectations.
+> **Business recommendation:** Re-evaluate promised delivery windows for First Class and Second Class shipping.
 
 ---
 
