@@ -114,4 +114,4 @@ Combining domain expertise with data tools to solve real business problems.
 ## License
 
 This project is for educational and portfolio purposes.  
-Dataset source: [DataCo Smart Supply Chain](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis) — used for non-commercial analysis only.
+Dataset source: [DataCo Smart Supply Chain](https://www.kaggle.com) — used for non-commercial analysis only.
