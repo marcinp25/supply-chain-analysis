@@ -24,7 +24,7 @@ A global e-commerce company operates across 5 markets (Europe, LATAM, Pacific As
 
 | Finding | Detail |
 |---|---|
-| **54.45% late delivery rate** | More than half of all orders arrive after the promised date |
+| **54.83% late delivery rate** | More than half of all orders arrive after the promised date |
 | **First Class = 95% late rate** | The most expensive shipping mode performs worst |
 | **Standard Class = 38% late rate** | The cheapest option delivers most reliably |
 | **$20.13M revenue at risk** | Over 54% of total revenue comes from late orders |
