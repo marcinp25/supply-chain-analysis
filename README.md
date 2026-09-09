@@ -35,12 +35,12 @@ A global e-commerce company operates across 5 markets (Europe, LATAM, Pacific As
 
 ## Root Cause Analysis
 
-The data reveals a **systemic planning problem**, not a logistics or regional issue:
+The data suggests a systemic delivery planning issue rather than a purely regional problem:
 
-- Average shipping time is identical across all markets (~3.5 days)
-- Late delivery rate is consistent across all customer segments (Consumer, Corporate, Home Office)
-- Premium shipping modes promise tighter windows but lack the operational buffer to meet them
-- 3-year rolling average shows no improvement despite operational changes
+- Average shipping time is very similar across regions, at around 3.5 days
+- Late delivery rates are consistently high across regions, with no single region standing out as the main source of the problem
+- First Class and Second Class have significantly higher late delivery rates than Standard Class
+- The late delivery rate remained around 54–56% throughout the analyzed period, with no sustained improvement
 
 > **Business recommendation:** Re-evaluate promised delivery windows for First Class and Second Class shipping.
 
