@@ -6,7 +6,7 @@ End-to-end data analysis project combining **Python**, **SQL (DuckDB)** and **Po
 
 ## Business Problem
 
-A global e-commerce company operates across 5 markets (Europe, LATAM, Pacific Asia, USCA, Africa) with 4 shipping modes. This project investigates **why deliveries are late, which areas are most affected, and what it costs the business.**
+A global e-commerce company operates across 5 markets (Europe, LATAM, Pacific Asia, USCA, Africa) with 4 shipping modes. This project investigates **how often deliveries are late, which areas are most affected, and what it costs the business.**
 
 ---
 
